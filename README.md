@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rolitex&show_icons=true&locale=en" alt="rolitex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rolitex&" alt="rolitex" /></p>

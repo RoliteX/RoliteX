@@ -18,4 +18,4 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rolitex&show_icons=true&locale=en&layout=compact" alt="rolitex" /></p>
 
-<p>&nbsp;<img align="center" margin-bottom: 10px; src="https://github-readme-stats.vercel.app/api?username=rolitex&show_icons=true&locale=en" alt="rolitex" /></p>
+<p>&nbsp;<img align="center" margin-bottom: 10px; display: flex; src="https://github-readme-stats.vercel.app/api?username=rolitex&show_icons=true&locale=en" alt="rolitex" /></p>

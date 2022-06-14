@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, Ben Taha Toklucu</h1>
-<h3 align="center" style="float: left;">Siber Güvenlik ve Web Designer yolunda ilerleyen bir geliştiriciyim.</h3>
+<h3 align="center">Siber Güvenlik ve Web Designer yolunda ilerleyen bir geliştiriciyim.</h3>
 
 - 🌱 Hala öğrenmekte olduğum diller: **Html5, Css3, JavaScript, C#, MSSQL, Python**
 

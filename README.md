@@ -1,7 +1,7 @@
 <h1 align="center">Selam 👋, Ben Taha Toklucu</h1>
 <h3 align="center">Front-End & Web Design yolunda ilerleyen bir geliştiriciyim.</h3>
 
-- 🌱 Hala öğrenmekte olduğum dil ve Frameworkler: **Html5, Css3, JavaScript, Bootstrap, React, Python**
+- 🌱 Hala öğrenmekte olduğum dil ve Frameworkler: **Html5, Css3, JavaScript, Bootstrap, React, Angular**
 
 - 👨‍💻 Yaptığım tüm projelere buradan ulaşabilirsiniz: [https://github.com/RoliteX?tab=repositories](https://github.com/RoliteX?tab=repositories)
 
